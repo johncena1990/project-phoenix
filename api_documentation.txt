@@ -1,0 +1,45 @@
+Authentication API
+
+POST
+
+/api/auth/login
+
+Returns
+
+JWT Token
+
+Customer API
+
+GET
+
+/api/customer/{id}
+
+Returns
+
+Customer Information
+
+Billing API
+
+GET
+
+/api/payment/status
+
+Returns
+
+Payment Status
+
+Dashboard API
+
+GET
+
+/api/dashboard
+
+Returns
+
+Customer Dashboard
+
+Health Check
+
+GET
+
+/api/health
