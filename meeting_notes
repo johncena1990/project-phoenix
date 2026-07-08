@@ -1,0 +1,49 @@
+Meeting
+
+Weekly Delivery Review
+
+Attendees
+
+Priya
+
+Arjun
+
+Rahul
+
+Meera
+
+Sneha
+
+Discussion
+
+Dashboard API completed for account overview.
+
+Pagination issue remains.
+
+Finance team has not completed billing API testing.
+
+Support role mapping awaiting approval.
+
+QA regression will start after payment migration.
+
+Decisions
+
+Delay release until payment validation completes.
+
+Action Items
+
+Arjun
+
+Finish pagination.
+
+Priya
+
+Follow up with finance.
+
+Meera
+
+Confirm role matrix.
+
+Sneha
+
+Prepare regression suite.
