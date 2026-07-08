@@ -1,0 +1,46 @@
+Project Phoenix Architecture
+
+Frontend
+
+React
+Redux
+Material UI
+
+Backend
+
+FastAPI
+
+Services
+
+Authentication Service
+Customer Service
+Billing Service
+Notification Service
+
+Database
+
+PostgreSQL
+
+Search
+
+Hybrid Search
+
+BM25
+
+Semantic Search
+
+ChromaDB
+
+LLM
+
+Llama3 running on Ollama
+
+Security
+
+JWT Authentication
+
+RBAC
+
+TLS Encryption
+
+Audit Logging
